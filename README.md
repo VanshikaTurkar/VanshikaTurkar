@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Vanshika Turkar 👋
 
-<!--
-**VanshikaTurkar/VanshikaTurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an undergraduate student with a passion for technology and its applications in real-world problems. I enjoy exploring various domains, including web development and data analysis, and am always eager to learn and collaborate.
+
+## 🔭 Currently Working On
+
+- Working on a machine learning project applying real-world data to generate insights.
+
+## 🌱 Learning
+
+- Deepening my understanding of JavaScript and its frameworks.
+- Advancing my knowledge in machine learning and data science methodologies.
+- Engaging in projects related to environmental awareness.
+
+## 📫 How to Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/vanshika-turkar/
+- Email: vanshika.turkar@gmail.com
+
+Feel free to explore my repositories and reach out if you're interested in collaborating or discussing projects!
+
